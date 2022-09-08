@@ -55,7 +55,7 @@
       "FuelType": null,
       "PercentContained": 45,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Fire behavior was moderate with smoldering and creeping activity, with occasional small flare ups within control lines. Warm temperatures and critically dry fuels with gusty winds continue to be a concern with the dry thunderstorms in and around the fire area. Todays Red Flag Warning is in effect until 9 PM this evening, with a Red Flag Warning issued from 11 AM Tomorrow through the evening hours. Damage Assessment is nearing completion, inspection teams are still validating data.</p>",
+      "ConditionStatement": "<p>Minimal fire activity was observed overnight however, isolated areas of heat<br />continue to be mopped-up within the established fire perimeter. Critically dry fuels<br />and warm temperatures continue to persist with wind gusts up to 25 MPH. Damage<br />Assessment is nearing completion, inspection teams are still validating data.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -63,7 +63,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-07T19:32:33.403Z",
+      "Updated": "2022-09-08T07:44:04.06Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -146,7 +146,7 @@
       "FuelType": null,
       "PercentContained": 75,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Today firefighter’s saw minimal fire activity within the established perimeter.<br />Damage Assessments have been completed.<br />Afternoon temperatures were a bit cooler today, a Red Flag Warning remains in effect until 9 PM this evening.</p>\r\n<p><br />For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
+      "ConditionStatement": "<p>Fire activity last night was minimal, and no new fire growth occurred. Firefighters continue to mop up hot spots within the perimeter of the fire. Please use caution when driving in and around the area.</p>\r\n<p>Weather today will have northeasterly winds, gusting around 20-25 MPH. Hot and dry conditions will continue throughout the day.</p>\r\n<p><br />For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -154,7 +154,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
-      "Updated": "2022-09-07T19:36:01.3Z",
+      "Updated": "2022-09-08T07:50:59.563Z",
       "Started": "2022-09-02T12:49:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -739,7 +739,7 @@
       "FuelType": null,
       "PercentContained": 45,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Fire behavior was moderate with smoldering and creeping activity, with occasional small flare ups within control lines. Warm temperatures and critically dry fuels with gusty winds continue to be a concern with the dry thunderstorms in and around the fire area. Todays Red Flag Warning is in effect until 9 PM this evening, with a Red Flag Warning issued from 11 AM Tomorrow through the evening hours. Damage Assessment is nearing completion, inspection teams are still validating data.</p>",
+      "ConditionStatement": "<p>Minimal fire activity was observed overnight however, isolated areas of heat<br />continue to be mopped-up within the established fire perimeter. Critically dry fuels<br />and warm temperatures continue to persist with wind gusts up to 25 MPH. Damage<br />Assessment is nearing completion, inspection teams are still validating data.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -747,7 +747,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou",
-      "Updated": "2022-09-07T19:32:33.403Z",
+      "Updated": "2022-09-08T07:44:04.06Z",
       "Started": "2022-09-02T15:48:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -830,7 +830,7 @@
       "FuelType": null,
       "PercentContained": 75,
       "ControlStatement": null,
-      "ConditionStatement": "<p>Today firefighter’s saw minimal fire activity within the established perimeter.<br />Damage Assessments have been completed.<br />Afternoon temperatures were a bit cooler today, a Red Flag Warning remains in effect until 9 PM this evening.</p>\r\n<p><br />For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
+      "ConditionStatement": "<p>Fire activity last night was minimal, and no new fire growth occurred. Firefighters continue to mop up hot spots within the perimeter of the fire. Please use caution when driving in and around the area.</p>\r\n<p>Weather today will have northeasterly winds, gusting around 20-25 MPH. Hot and dry conditions will continue throughout the day.</p>\r\n<p><br />For information on returning home after a wildfire, visit readyforwildfire.org.</p>",
       "Counties": [
         "Siskiyou"
       ],
@@ -838,7 +838,7 @@
       "SearchDescription": null,
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
-      "Updated": "2022-09-07T19:36:01.3Z",
+      "Updated": "2022-09-08T07:50:59.563Z",
       "Started": "2022-09-02T12:49:00Z",
       "Extinguished": null,
       "ArchiveYear": 2022,
@@ -3606,7 +3606,7 @@
       "PercentContainedDisplay": "75%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-07 19:36:01",
+      "UpdatedDate": "2022-09-08 07:50:59",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou Unit ",
       "IncidentTypeDisplay": "Wildfire",
@@ -3642,7 +3642,7 @@
       "PercentContainedDisplay": "45%",
       "ExternalIncidentLink": "",
       "CountiesList": "Siskiyou",
-      "UpdatedDate": "2022-09-07 19:32:33",
+      "UpdatedDate": "2022-09-08 07:44:04",
       "StartedDate": "2022-09-02",
       "AdminUnit": "CAL FIRE Siskiyou",
       "IncidentTypeDisplay": "Wildfire",
